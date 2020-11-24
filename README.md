@@ -6,6 +6,10 @@ Compare the accuracy of the tools and the feature extraction algorithm in Machin
 
 # Project Description
 
+Language and tools used:
+1) Python (Sci-kit Learn)
+2) Matlab
+
 Feature Extraction Algorithm used in Machine Learning:
 1) SURF
 2) Harris Corner
@@ -24,3 +28,4 @@ CNN models used in Deep Learning:
 2) GoogleNet
 3) ResNet18
 4) My own model
+
