@@ -1,0 +1,4 @@
+
+
+- naivebayers & svm still didnt run due to ouput problems
+- test with nn hidden nodes and layers

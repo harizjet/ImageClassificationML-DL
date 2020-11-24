@@ -1,0 +1,6 @@
+Classiers used:
+1) ANN
+2) KNN
+3) SVM
+4) Naive Bayes
+5) Random Forest
